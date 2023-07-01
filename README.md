@@ -21,3 +21,4 @@ this is The gerocery app that have add to cart functions
 ## see the prototype of app
 
 host on github
+https://isavtars.github.io/webgerocery/#/
